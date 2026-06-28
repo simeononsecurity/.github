@@ -1,0 +1,46 @@
+name: Update README
+
+on:
+  schedule:
+    # Every 6 hours (minute 0). Adjust the cron as needed.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update-readme.js"
+      - ".github/workflows/update-readme.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Update blog grid in README
+        run: node scripts/update-readme.js
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh latest blog posts in README"
+            git push
+          else
+            echo "No README changes to commit."
+          fi

@@ -197,44 +197,6 @@
 
 <a rel="me" href="https://mastodon.world/@simeononsecurity"></a>
 <a rel="me" href="https://simeononsecurity.com"></a>
-
-<hr>
-
-### 🎓 Certifications
-
-<div align="center">
-
-<!-- CompTIA -->
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA A+" src="https://img.shields.io/badge/A%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA Network+" src="https://img.shields.io/badge/Network%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA Security+" src="https://img.shields.io/badge/Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA CySA+" src="https://img.shields.io/badge/CySA%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA PenTest+" src="https://img.shields.io/badge/PenTest%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA SecurityX (CASP+)" src="https://img.shields.io/badge/SecurityX%20(CASP%2B)-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA SecAI+" src="https://img.shields.io/badge/SecAI%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA Linux+" src="https://img.shields.io/badge/Linux%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA Server+" src="https://img.shields.io/badge/Server%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<a href="https://www.comptia.org/certifications"><img alt="CompTIA Project+" src="https://img.shields.io/badge/Project%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white"></a>
-<br>
-<!-- ISC2 -->
-<a href="https://www.isc2.org/"><img alt="ISC2 CISSP" src="https://img.shields.io/badge/CISSP-00747C?style=for-the-badge&logo=isc2&logoColor=white"></a>
-<a href="https://www.isc2.org/"><img alt="ISC2 SSCP" src="https://img.shields.io/badge/SSCP-00747C?style=for-the-badge&logo=isc2&logoColor=white"></a>
-<!-- EC-Council -->
-<a href="https://www.eccouncil.org/"><img alt="EC-Council CEH" src="https://img.shields.io/badge/CEH-B5121B?style=for-the-badge&logoColor=white"></a>
-<a href="https://www.eccouncil.org/"><img alt="EC-Council ECIH" src="https://img.shields.io/badge/ECIH-B5121B?style=for-the-badge&logoColor=white"></a>
-<a href="https://www.eccouncil.org/"><img alt="EC-Council ECES" src="https://img.shields.io/badge/ECES-B5121B?style=for-the-badge&logoColor=white"></a>
-<br>
-<!-- Microsoft -->
-<a href="https://learn.microsoft.com/en-us/credentials/"><img alt="Microsoft Certified Professional" src="https://img.shields.io/badge/MCP-0078D4?style=for-the-badge&logoColor=white"></a>
-<a href="https://learn.microsoft.com/en-us/credentials/"><img alt="MCSA: Windows 10" src="https://img.shields.io/badge/MCSA%3A%20Windows%2010-0078D4?style=for-the-badge&logoColor=white"></a>
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"><img alt="Microsoft AZ-900" src="https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&logoColor=white"></a>
-<a href="https://learn.microsoft.com/en-us/credentials/"><img alt="MTA: Windows Server Administration Fundamentals" src="https://img.shields.io/badge/MTA%3A%20Windows%20Server%20Admin%20Fundamentals-0078D4?style=for-the-badge&logoColor=white"></a>
-<!-- Cisco -->
-<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html"><img alt="Cisco CCNA" src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"></a>
-<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html"><img alt="Cisco CCENT" src="https://img.shields.io/badge/CCENT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"></a>
-
-</div>
-
 <hr>
 
 <div align="center">

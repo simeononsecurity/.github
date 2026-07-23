@@ -148,32 +148,32 @@
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/ai-cybersecurity-governance-certifications-disappointing/">
-<img src="https://simeononsecurity.com/img/cover/ai-cybersecurity-governance-certifications-disappointing.webp" width="100%" alt="AI Cybersecurity and Governance Certifications Are Not Keeping Up with the Problem" />
+<a href="https://simeononsecurity.com/cyber-security-career-playbook/getting-a-job-in-cyber-security/addressing-the-challenges-in-the-early-career-job-market/">
+<img src="https://simeononsecurity.com/img/cover/A_professional_in_a_superhero_cape_standing_in_front_of_a_computer.png" width="100%" alt="Addressing the Challenges in the Early Career Cybersecurity Job Market (2026)" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/ai-cybersecurity-governance-certifications-disappointing/"><sub><b>AI Cybersecurity and Governance Certifications Are Not Keeping Up with the Problem</b></sub></a>
+<a href="https://simeononsecurity.com/cyber-security-career-playbook/getting-a-job-in-cyber-security/addressing-the-challenges-in-the-early-career-job-market/"><sub><b>Addressing the Challenges in the Early Career Cybersecurity Job Market (2026)</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/meshcore-vs-meshtastic-comparison-guide/">
-<img src="https://simeononsecurity.com/img/cover/meshcore-vs-meshtastic-comparison-guide.webp" width="100%" alt="MeshCore vs Meshtastic: Which Off-Grid LoRa Mesh Network Is Right for You?" />
+<a href="https://simeononsecurity.com/software-development-career-playbook/growing-as-a-developer/advancing-from-junior-to-senior-developer/">
+<img src="https://simeononsecurity.com/img/cover/advancing-from-junior-to-senior-developer-skills.webp" width="100%" alt="Advancing from Junior to Senior Developer: Skills, Behaviors, and Timelines" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/meshcore-vs-meshtastic-comparison-guide/"><sub><b>MeshCore vs Meshtastic: Which Off-Grid LoRa Mesh Network Is Right for You?</b></sub></a>
+<a href="https://simeononsecurity.com/software-development-career-playbook/growing-as-a-developer/advancing-from-junior-to-senior-developer/"><sub><b>Advancing from Junior to Senior Developer: Skills, Behaviors, and Timelines</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/ot-ics-plc-cybersecurity-fundamentally-broken/">
-<img src="https://simeononsecurity.com/img/cover/ot-ics-plc-cybersecurity-fundamentally-broken.webp" width="100%" alt="OT, ICS, and PLC Cybersecurity Is a Problem Industry Cannot Honestly Solve" />
+<a href="https://simeononsecurity.com/it-career-playbook/it-certifications-and-degrees/are-it-bootcamps-worth-it/">
+<img src="https://simeononsecurity.com/img/cover/it-bootcamps-worth-it-assessment-2026.webp" width="100%" alt="Are IT Bootcamps Worth It? An Honest 2026 Assessment" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/ot-ics-plc-cybersecurity-fundamentally-broken/"><sub><b>OT, ICS, and PLC Cybersecurity Is a Problem Industry Cannot Honestly Solve</b></sub></a>
+<a href="https://simeononsecurity.com/it-career-playbook/it-certifications-and-degrees/are-it-bootcamps-worth-it/"><sub><b>Are IT Bootcamps Worth It? An Honest 2026 Assessment</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/state-of-ai-cybersecurity-2026/">
-<img src="https://simeononsecurity.com/img/cover/state-of-ai-cybersecurity-2026.webp" width="100%" alt="The State of AI Cybersecurity in 2026: Deploy Fast, Secure Later, Pay Eventually" />
+<a href="https://simeononsecurity.com/articles/ats-resume-improver-ai-powered-resume-optimizer/">
+<img src="https://simeononsecurity.com/img/cover/ai-resume-optimizer-self-hosted-ats-analysis.webp" width="100%" alt="ATS Resume Improver: Free, Self-Hostable AI Resume Optimizer That Never Phones Home" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/state-of-ai-cybersecurity-2026/"><sub><b>The State of AI Cybersecurity in 2026: Deploy Fast, Secure Later, Pay Eventually</b></sub></a>
+<a href="https://simeononsecurity.com/articles/ats-resume-improver-ai-powered-resume-optimizer/"><sub><b>ATS Resume Improver: Free, Self-Hostable AI Resume Optimizer That Never Phones Home</b></sub></a>
 </td>
 </tr>
 </table>

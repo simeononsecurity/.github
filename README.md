@@ -149,17 +149,17 @@
 <tr>
 <td align="center" width="25%" valign="top">
 <a href="https://simeononsecurity.com/cyber-security-career-playbook/getting-a-job-in-cyber-security/addressing-the-challenges-in-the-early-career-job-market/">
-<img src="https://simeononsecurity.com/img/cover/A_professional_in_a_superhero_cape_standing_in_front_of_a_computer.png" width="100%" alt="Addressing the Challenges in the Early Career Cybersecurity Job Market (2026)" />
+<img src="https://simeononsecurity.com/img/cover/A_professional_in_a_superhero_cape_standing_in_front_of_a_computer.png" width="100%" alt="Addressing the Challenges in the Early Career..." />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/cyber-security-career-playbook/getting-a-job-in-cyber-security/addressing-the-challenges-in-the-early-career-job-market/"><sub><b>Addressing the Challenges in the Early Career Cybersecurity Job Market (2026)</b></sub></a>
+<a href="https://simeononsecurity.com/cyber-security-career-playbook/getting-a-job-in-cyber-security/addressing-the-challenges-in-the-early-career-job-market/"><sub><b>Addressing the Challenges in the Early Career...</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://simeononsecurity.com/software-development-career-playbook/growing-as-a-developer/advancing-from-junior-to-senior-developer/">
-<img src="https://simeononsecurity.com/img/cover/advancing-from-junior-to-senior-developer-skills.webp" width="100%" alt="Advancing from Junior to Senior Developer: Skills, Behaviors, and Timelines" />
+<img src="https://simeononsecurity.com/img/cover/advancing-from-junior-to-senior-developer-skills.webp" width="100%" alt="Advancing from Junior to Senior Developer" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/software-development-career-playbook/growing-as-a-developer/advancing-from-junior-to-senior-developer/"><sub><b>Advancing from Junior to Senior Developer: Skills, Behaviors, and Timelines</b></sub></a>
+<a href="https://simeononsecurity.com/software-development-career-playbook/growing-as-a-developer/advancing-from-junior-to-senior-developer/"><sub><b>Advancing from Junior to Senior Developer</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://simeononsecurity.com/it-career-playbook/it-certifications-and-degrees/are-it-bootcamps-worth-it/">
@@ -170,10 +170,10 @@
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://simeononsecurity.com/articles/ats-resume-improver-ai-powered-resume-optimizer/">
-<img src="https://simeononsecurity.com/img/cover/ai-resume-optimizer-self-hosted-ats-analysis.webp" width="100%" alt="ATS Resume Improver: Free, Self-Hostable AI Resume Optimizer That Never Phones Home" />
+<img src="https://simeononsecurity.com/img/cover/ai-resume-optimizer-self-hosted-ats-analysis.webp" width="100%" alt="ATS Resume Improver: Free AI-Powered Resume Optimizer" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/ats-resume-improver-ai-powered-resume-optimizer/"><sub><b>ATS Resume Improver: Free, Self-Hostable AI Resume Optimizer That Never Phones Home</b></sub></a>
+<a href="https://simeononsecurity.com/articles/ats-resume-improver-ai-powered-resume-optimizer/"><sub><b>ATS Resume Improver: Free AI-Powered Resume Optimizer</b></sub></a>
 </td>
 </tr>
 </table>

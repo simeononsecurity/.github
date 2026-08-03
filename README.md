@@ -148,6 +148,13 @@
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
+<a href="https://simeononsecurity.com/articles/flock-cameras-public-safety-or-surveillance-2026/">
+<img src="https://simeononsecurity.com/img/cover/flock-safety-cameras-public-safety-surveillance.webp" width="100%" alt="Flock Cameras: Public Safety Tool or Warrantless Surveillance Machine?" />
+</a>
+<br/>
+<a href="https://simeononsecurity.com/articles/flock-cameras-public-safety-or-surveillance-2026/"><sub><b>Flock Cameras: Public Safety Tool or Warrantless Surveillance Machine?</b></sub></a>
+</td>
+<td align="center" width="25%" valign="top">
 <a href="https://simeononsecurity.com/cyber-security-career-playbook/getting-a-job-in-cyber-security/addressing-the-challenges-in-the-early-career-job-market/">
 <img src="https://simeononsecurity.com/img/cover/A_professional_in_a_superhero_cape_standing_in_front_of_a_computer.png" width="100%" alt="Addressing the Challenges in the Early Career..." />
 </a>
@@ -167,13 +174,6 @@
 </a>
 <br/>
 <a href="https://simeononsecurity.com/it-career-playbook/it-certifications-and-degrees/are-it-bootcamps-worth-it/"><sub><b>Are IT Bootcamps Worth It? An Honest 2026 Assessment</b></sub></a>
-</td>
-<td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/ats-resume-improver-ai-powered-resume-optimizer/">
-<img src="https://simeononsecurity.com/img/cover/ai-resume-optimizer-self-hosted-ats-analysis.webp" width="100%" alt="ATS Resume Improver: Free AI-Powered Resume Optimizer" />
-</a>
-<br/>
-<a href="https://simeononsecurity.com/articles/ats-resume-improver-ai-powered-resume-optimizer/"><sub><b>ATS Resume Improver: Free AI-Powered Resume Optimizer</b></sub></a>
 </td>
 </tr>
 </table>

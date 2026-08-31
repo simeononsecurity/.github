@@ -148,32 +148,32 @@
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/flock-cameras-public-safety-or-surveillance-2026/">
-<img src="https://simeononsecurity.com/img/cover/flock-safety-cameras-public-safety-surveillance.webp" width="100%" alt="Flock Cameras: Public Safety Tool or Warrantless Surveillance Machine?" />
+<a href="https://simeononsecurity.com/writeups/hackthebox-sherlock-phantomring/">
+<img src="https://simeononsecurity.com/img/cover/hackthebox-sherlock-phantomring-malware-analysis.webp" width="100%" alt="HackTheBox - Sherlock - PhantomRing" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/flock-cameras-public-safety-or-surveillance-2026/"><sub><b>Flock Cameras: Public Safety Tool or Warrantless Surveillance Machine?</b></sub></a>
+<a href="https://simeononsecurity.com/writeups/hackthebox-sherlock-phantomring/"><sub><b>HackTheBox - Sherlock - PhantomRing</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/cyber-security-career-playbook/getting-a-job-in-cyber-security/addressing-the-challenges-in-the-early-career-job-market/">
-<img src="https://simeononsecurity.com/img/cover/A_professional_in_a_superhero_cape_standing_in_front_of_a_computer.png" width="100%" alt="Addressing the Challenges in the Early Career..." />
+<a href="https://simeononsecurity.com/articles/field-it-tidbits-beyond-the-mini-datacenter/">
+<img src="https://simeononsecurity.com/img/cover/field-it-deployment-spares-kit.webp" width="100%" alt="Field IT Tidbits: Beyond the Mini Data Center" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/cyber-security-career-playbook/getting-a-job-in-cyber-security/addressing-the-challenges-in-the-early-career-job-market/"><sub><b>Addressing the Challenges in the Early Career...</b></sub></a>
+<a href="https://simeononsecurity.com/articles/field-it-tidbits-beyond-the-mini-datacenter/"><sub><b>Field IT Tidbits: Beyond the Mini Data Center</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/software-development-career-playbook/growing-as-a-developer/advancing-from-junior-to-senior-developer/">
-<img src="https://simeononsecurity.com/img/cover/advancing-from-junior-to-senior-developer-skills.webp" width="100%" alt="Advancing from Junior to Senior Developer" />
+<a href="https://simeononsecurity.com/articles/field-deployable-connectivity-and-data-security-for-edge-nodes/">
+<img src="https://simeononsecurity.com/img/cover/field-deployable-edge-computing-connectivity-security.webp" width="100%" alt="Field-Deployable Connectivity and Data Security for Edge Nodes" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/software-development-career-playbook/growing-as-a-developer/advancing-from-junior-to-senior-developer/"><sub><b>Advancing from Junior to Senior Developer</b></sub></a>
+<a href="https://simeononsecurity.com/articles/field-deployable-connectivity-and-data-security-for-edge-nodes/"><sub><b>Field-Deployable Connectivity and Data Security for Edge Nodes</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/it-career-playbook/it-certifications-and-degrees/are-it-bootcamps-worth-it/">
-<img src="https://simeononsecurity.com/img/cover/it-bootcamps-worth-it-assessment-2026.webp" width="100%" alt="Are IT Bootcamps Worth It? An Honest 2026 Assessment" />
+<a href="https://simeononsecurity.com/articles/field-deployable-edge-compute-hardware-and-enclosure-selection/">
+<img src="https://simeononsecurity.com/img/cover/field-deployable-edge-compute-hardware-enclosure-selection.webp" width="100%" alt="Field-Deployable Edge Compute: Hardware and Enclosure Selection" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/it-career-playbook/it-certifications-and-degrees/are-it-bootcamps-worth-it/"><sub><b>Are IT Bootcamps Worth It? An Honest 2026 Assessment</b></sub></a>
+<a href="https://simeononsecurity.com/articles/field-deployable-edge-compute-hardware-and-enclosure-selection/"><sub><b>Field-Deployable Edge Compute: Hardware and Enclosure Selection</b></sub></a>
 </td>
 </tr>
 </table>

@@ -148,6 +148,13 @@
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
+<a href="https://simeononsecurity.com/articles/meshtastic-vs-meshcore-vs-reticulum-comparison-guide/">
+<img src="https://simeononsecurity.com/img/cover/meshtastic-meshcore-reticulum-network-comparison.webp" width="100%" alt="Meshtastic vs MeshCore vs Reticulum" />
+</a>
+<br/>
+<a href="https://simeononsecurity.com/articles/meshtastic-vs-meshcore-vs-reticulum-comparison-guide/"><sub><b>Meshtastic vs MeshCore vs Reticulum</b></sub></a>
+</td>
+<td align="center" width="25%" valign="top">
 <a href="https://simeononsecurity.com/writeups/hackthebox-sherlock-phantomring/">
 <img src="https://simeononsecurity.com/img/cover/hackthebox-sherlock-phantomring-malware-analysis.webp" width="100%" alt="HackTheBox - Sherlock - PhantomRing" />
 </a>
@@ -167,13 +174,6 @@
 </a>
 <br/>
 <a href="https://simeononsecurity.com/articles/field-deployable-connectivity-and-data-security-for-edge-nodes/"><sub><b>Field-Deployable Connectivity and Data Security for Edge Nodes</b></sub></a>
-</td>
-<td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/field-deployable-edge-compute-hardware-and-enclosure-selection/">
-<img src="https://simeononsecurity.com/img/cover/field-deployable-edge-compute-hardware-enclosure-selection.webp" width="100%" alt="Field-Deployable Edge Compute: Hardware and Enclosure Selection" />
-</a>
-<br/>
-<a href="https://simeononsecurity.com/articles/field-deployable-edge-compute-hardware-and-enclosure-selection/"><sub><b>Field-Deployable Edge Compute: Hardware and Enclosure Selection</b></sub></a>
 </td>
 </tr>
 </table>

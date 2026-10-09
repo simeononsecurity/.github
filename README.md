@@ -148,32 +148,32 @@
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/meshtastic-vs-meshcore-vs-reticulum-comparison-guide/">
-<img src="https://simeononsecurity.com/img/cover/meshtastic-meshcore-reticulum-network-comparison.webp" width="100%" alt="Meshtastic vs MeshCore vs Reticulum" />
+<a href="https://simeononsecurity.com/articles/is-16gb-vram-enough-local-llm/">
+<img src="https://simeononsecurity.com/img/cover/16gb-vram-local-llm-workspace-illustration.webp" width="100%" alt="Is 16GB VRAM Enough for Serious Local LLM Work?" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/meshtastic-vs-meshcore-vs-reticulum-comparison-guide/"><sub><b>Meshtastic vs MeshCore vs Reticulum</b></sub></a>
+<a href="https://simeononsecurity.com/articles/is-16gb-vram-enough-local-llm/"><sub><b>Is 16GB VRAM Enough for Serious Local LLM Work?</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/writeups/hackthebox-sherlock-phantomring/">
-<img src="https://simeononsecurity.com/img/cover/hackthebox-sherlock-phantomring-malware-analysis.webp" width="100%" alt="HackTheBox - Sherlock - PhantomRing" />
+<a href="https://simeononsecurity.com/articles/claude-code-plugins-skills-mcp-tools/">
+<img src="https://simeononsecurity.com/img/cover/claude-code-plugins-workflow-management-tools.webp" width="100%" alt="10 Claude Code Plugins, Skills, and MCP Tools: A Practical Guide" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/writeups/hackthebox-sherlock-phantomring/"><sub><b>HackTheBox - Sherlock - PhantomRing</b></sub></a>
+<a href="https://simeononsecurity.com/articles/claude-code-plugins-skills-mcp-tools/"><sub><b>10 Claude Code Plugins, Skills, and MCP Tools: A Practical Guide</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/field-it-tidbits-beyond-the-mini-datacenter/">
-<img src="https://simeononsecurity.com/img/cover/field-it-deployment-spares-kit.webp" width="100%" alt="Field IT Tidbits: Beyond the Mini Data Center" />
+<a href="https://simeononsecurity.com/articles/ai-agent-skills-research-design-development/">
+<img src="https://simeononsecurity.com/img/cover/agent-skill-workflow-library.webp" width="100%" alt="9 AI Agent Skill Projects for Research, Design, and Development" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/field-it-tidbits-beyond-the-mini-datacenter/"><sub><b>Field IT Tidbits: Beyond the Mini Data Center</b></sub></a>
+<a href="https://simeononsecurity.com/articles/ai-agent-skills-research-design-development/"><sub><b>9 AI Agent Skill Projects for Research, Design, and Development</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/field-deployable-connectivity-and-data-security-for-edge-nodes/">
-<img src="https://simeononsecurity.com/img/cover/field-deployable-edge-computing-connectivity-security.webp" width="100%" alt="Field-Deployable Connectivity and Data Security for Edge Nodes" />
+<a href="https://simeononsecurity.com/articles/best-ai-agent-harnesses/">
+<img src="https://simeononsecurity.com/img/cover/ai-agent-execution-components.webp" width="100%" alt="Best AI Agent Harnesses in 2026: Choose by Workflow" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/field-deployable-connectivity-and-data-security-for-edge-nodes/"><sub><b>Field-Deployable Connectivity and Data Security for Edge Nodes</b></sub></a>
+<a href="https://simeononsecurity.com/articles/best-ai-agent-harnesses/"><sub><b>Best AI Agent Harnesses in 2026: Choose by Workflow</b></sub></a>
 </td>
 </tr>
 </table>

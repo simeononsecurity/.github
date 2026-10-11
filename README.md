@@ -148,32 +148,32 @@
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/is-16gb-vram-enough-local-llm/">
-<img src="https://simeononsecurity.com/img/cover/16gb-vram-local-llm-workspace-illustration.webp" width="100%" alt="Is 16GB VRAM Enough for Serious Local LLM Work?" />
+<a href="https://simeononsecurity.com/articles/2x-rtx-5060-ti-vs-gb10-ai-inference/">
+<img src="https://simeononsecurity.com/img/cover/nvidia-rtx-5060-ti-vs-gb10-memory-performance-comparison.webp" width="100%" alt="2x RTX 5060 Ti vs GB10: Five-Model Local AI Benchmark at 256K Context" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/is-16gb-vram-enough-local-llm/"><sub><b>Is 16GB VRAM Enough for Serious Local LLM Work?</b></sub></a>
+<a href="https://simeononsecurity.com/articles/2x-rtx-5060-ti-vs-gb10-ai-inference/"><sub><b>2x RTX 5060 Ti vs GB10: Five-Model Local AI Benchmark at 256K Context</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/claude-code-plugins-skills-mcp-tools/">
-<img src="https://simeononsecurity.com/img/cover/claude-code-plugins-workflow-management-tools.webp" width="100%" alt="10 Claude Code Plugins, Skills, and MCP Tools: A Practical Guide" />
+<a href="https://simeononsecurity.com/articles/effective-ai-agent-delegation/">
+<img src="https://simeononsecurity.com/img/cover/effective-ai-agent-delegation.webp" width="100%" alt="AI Agent Delegation: Assign Workers and Review Results" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/claude-code-plugins-skills-mcp-tools/"><sub><b>10 Claude Code Plugins, Skills, and MCP Tools: A Practical Guide</b></sub></a>
+<a href="https://simeononsecurity.com/articles/effective-ai-agent-delegation/"><sub><b>AI Agent Delegation: Assign Workers and Review Results</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/ai-agent-skills-research-design-development/">
-<img src="https://simeononsecurity.com/img/cover/agent-skill-workflow-library.webp" width="100%" alt="9 AI Agent Skill Projects for Research, Design, and Development" />
+<a href="https://simeononsecurity.com/articles/effective-ai-context-window-management/">
+<img src="https://simeononsecurity.com/img/cover/effective-ai-context-window-management.webp" width="100%" alt="AI Context Window Management: Keep Coding Agents Focused" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/ai-agent-skills-research-design-development/"><sub><b>9 AI Agent Skill Projects for Research, Design, and Development</b></sub></a>
+<a href="https://simeononsecurity.com/articles/effective-ai-context-window-management/"><sub><b>AI Context Window Management: Keep Coding Agents Focused</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/best-ai-agent-harnesses/">
-<img src="https://simeononsecurity.com/img/cover/ai-agent-execution-components.webp" width="100%" alt="Best AI Agent Harnesses in 2026: Choose by Workflow" />
+<a href="https://simeononsecurity.com/articles/effective-ai-task-packets/">
+<img src="https://simeononsecurity.com/img/cover/effective-ai-task-packets.webp" width="100%" alt="AI Task Packets: Better Prompts and Acceptance Checks" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/best-ai-agent-harnesses/"><sub><b>Best AI Agent Harnesses in 2026: Choose by Workflow</b></sub></a>
+<a href="https://simeononsecurity.com/articles/effective-ai-task-packets/"><sub><b>AI Task Packets: Better Prompts and Acceptance Checks</b></sub></a>
 </td>
 </tr>
 </table>

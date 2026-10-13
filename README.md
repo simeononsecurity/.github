@@ -148,32 +148,32 @@
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/2x-rtx-5060-ti-vs-gb10-ai-inference/">
-<img src="https://simeononsecurity.com/img/cover/nvidia-rtx-5060-ti-vs-gb10-memory-performance-comparison.webp" width="100%" alt="2x RTX 5060 Ti vs GB10: Five-Model Local AI Benchmark at 256K Context" />
+<a href="https://simeononsecurity.com/articles/1password-cli-ssh-keys-mcp-agent-administration/">
+<img src="https://simeononsecurity.com/img/cover/1password-cli-ssh-keys-mcp-agent-administration.webp" width="100%" alt="1Password CLI and SSH Agent: Secure SSH Keys for AI Agents" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/2x-rtx-5060-ti-vs-gb10-ai-inference/"><sub><b>2x RTX 5060 Ti vs GB10: Five-Model Local AI Benchmark at 256K Context</b></sub></a>
+<a href="https://simeononsecurity.com/articles/1password-cli-ssh-keys-mcp-agent-administration/"><sub><b>1Password CLI and SSH Agent: Secure SSH Keys for AI Agents</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/effective-ai-agent-delegation/">
-<img src="https://simeononsecurity.com/img/cover/effective-ai-agent-delegation.webp" width="100%" alt="AI Agent Delegation: Assign Workers and Review Results" />
+<a href="https://simeononsecurity.com/articles/bitbucket-cloud-ssh-keys-git-cli-mcp-agent-automation/">
+<img src="https://simeononsecurity.com/img/cover/bitbucket-cloud-ssh-keys-git-cli-mcp-agent-automation.webp" width="100%" alt="Bitbucket Cloud SSH Keys and Git CLI: Read-Only Access for AI Agents" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/effective-ai-agent-delegation/"><sub><b>AI Agent Delegation: Assign Workers and Review Results</b></sub></a>
+<a href="https://simeononsecurity.com/articles/bitbucket-cloud-ssh-keys-git-cli-mcp-agent-automation/"><sub><b>Bitbucket Cloud SSH Keys and Git CLI: Read-Only Access for AI Agents</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/effective-ai-context-window-management/">
-<img src="https://simeononsecurity.com/img/cover/effective-ai-context-window-management.webp" width="100%" alt="AI Context Window Management: Keep Coding Agents Focused" />
+<a href="https://simeononsecurity.com/detection-engineering-incident-response-course/09-quiz-answer-key/">
+<img src="https://simeononsecurity.com/img/cover/detection-incident-response-quiz-answer-key.webp" width="100%" alt="Detection Engineering and Incident Response Quiz Answer Key" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/effective-ai-context-window-management/"><sub><b>AI Context Window Management: Keep Coding Agents Focused</b></sub></a>
+<a href="https://simeononsecurity.com/detection-engineering-incident-response-course/09-quiz-answer-key/"><sub><b>Detection Engineering and Incident Response Quiz Answer Key</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/articles/effective-ai-task-packets/">
-<img src="https://simeononsecurity.com/img/cover/effective-ai-task-packets.webp" width="100%" alt="AI Task Packets: Better Prompts and Acceptance Checks" />
+<a href="https://simeononsecurity.com/detection-engineering-incident-response-course/10-capstone-answer-key/">
+<img src="https://simeononsecurity.com/img/cover/detection-incident-response-capstone-answer-key.webp" width="100%" alt="Detection Engineering Capstone Answer Key" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/effective-ai-task-packets/"><sub><b>AI Task Packets: Better Prompts and Acceptance Checks</b></sub></a>
+<a href="https://simeononsecurity.com/detection-engineering-incident-response-course/10-capstone-answer-key/"><sub><b>Detection Engineering Capstone Answer Key</b></sub></a>
 </td>
 </tr>
 </table>

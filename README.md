@@ -149,17 +149,24 @@
 <tr>
 <td align="center" width="25%" valign="top">
 <a href="https://simeononsecurity.com/articles/1password-cli-ssh-keys-mcp-agent-administration/">
-<img src="https://simeononsecurity.com/img/cover/1password-cli-ssh-keys-mcp-agent-administration.webp" width="100%" alt="1Password CLI and SSH Agent: Secure SSH Keys for AI Agents" />
+<img src="https://simeononsecurity.com/img/cover/1password-cli-ssh-keys-mcp-agent-administration.webp" width="100%" alt="1Password SSH Agent and CLI: Read-Only AI Agent Access" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/1password-cli-ssh-keys-mcp-agent-administration/"><sub><b>1Password CLI and SSH Agent: Secure SSH Keys for AI Agents</b></sub></a>
+<a href="https://simeononsecurity.com/articles/1password-cli-ssh-keys-mcp-agent-administration/"><sub><b>1Password SSH Agent and CLI: Read-Only AI Agent Access</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://simeononsecurity.com/articles/bitbucket-cloud-ssh-keys-git-cli-mcp-agent-automation/">
-<img src="https://simeononsecurity.com/img/cover/bitbucket-cloud-ssh-keys-git-cli-mcp-agent-automation.webp" width="100%" alt="Bitbucket Cloud SSH Keys and Git CLI: Read-Only Access for AI Agents" />
+<img src="https://simeononsecurity.com/img/cover/bitbucket-cloud-ssh-keys-git-cli-mcp-agent-automation.webp" width="100%" alt="Bitbucket Cloud SSH Keys: Read-Only Git Access for AI Agents" />
 </a>
 <br/>
-<a href="https://simeononsecurity.com/articles/bitbucket-cloud-ssh-keys-git-cli-mcp-agent-automation/"><sub><b>Bitbucket Cloud SSH Keys and Git CLI: Read-Only Access for AI Agents</b></sub></a>
+<a href="https://simeononsecurity.com/articles/bitbucket-cloud-ssh-keys-git-cli-mcp-agent-automation/"><sub><b>Bitbucket Cloud SSH Keys: Read-Only Git Access for AI Agents</b></sub></a>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://simeononsecurity.com/detection-engineering-incident-response-course/10-capstone-answer-key/">
+<img src="https://simeononsecurity.com/img/cover/detection-incident-response-capstone-answer-key.webp" width="100%" alt="Detection and Incident Response Capstone Answer Key" />
+</a>
+<br/>
+<a href="https://simeononsecurity.com/detection-engineering-incident-response-course/10-capstone-answer-key/"><sub><b>Detection and Incident Response Capstone Answer Key</b></sub></a>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://simeononsecurity.com/detection-engineering-incident-response-course/09-quiz-answer-key/">
@@ -167,13 +174,6 @@
 </a>
 <br/>
 <a href="https://simeononsecurity.com/detection-engineering-incident-response-course/09-quiz-answer-key/"><sub><b>Detection Engineering and Incident Response Quiz Answer Key</b></sub></a>
-</td>
-<td align="center" width="25%" valign="top">
-<a href="https://simeononsecurity.com/detection-engineering-incident-response-course/10-capstone-answer-key/">
-<img src="https://simeononsecurity.com/img/cover/detection-incident-response-capstone-answer-key.webp" width="100%" alt="Detection Engineering Capstone Answer Key" />
-</a>
-<br/>
-<a href="https://simeononsecurity.com/detection-engineering-incident-response-course/10-capstone-answer-key/"><sub><b>Detection Engineering Capstone Answer Key</b></sub></a>
 </td>
 </tr>
 </table>
